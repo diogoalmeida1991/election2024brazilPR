@@ -1,0 +1,1 @@
+"This repository was created to study 2024 Brazilian election in Parana State. Here is used Selenium library and PDF plumber library to collect datas and discover neighborhood that vote to a candidate specific. In this case I use the SÆo Jos‚ dos Pinhais city. Attention: the TSE site can to change the layout making this code stop to work." 
